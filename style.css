@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: darkslateblue;
+    width: 100%;
+}
+
+.box{
+    display: block;
+    width: 25%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 80px;
+    text-align: center;
+    
+}
+
+.box h1{
+    margin-top: 0;
+}
+
+input{
+    margin-top: 15px;
+    height: 25px;
+    
+}
+
+#message {
+    margin: 0;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+
+form a{
+    display: block;
+    height: 20px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: darkslateblue;
+    
+}
+
+form a:hover{
+    background-color: #042c2c;
+}
